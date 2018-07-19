@@ -12,3 +12,4 @@ travis-ci example
  - 点击travis-ci项目里面的status，可以得到status的链接。
  - 我们有的时候调用脚本的时候，会报错`Permission denied`，这个时候就在`before_install`下加上`chmod +x test.sh`就可以了。
  - 在codecov的setting里面，可以得到markdown用的badge。
+ - 可以在脚本里面去掉不想要加入测试覆盖率的代码

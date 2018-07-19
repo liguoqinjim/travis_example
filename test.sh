@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
 set -e
-#echo "" > coverage.txt
-touch coverage.txt
+echo "" > coverage.txt
 
 # 不在测试覆盖率里面去除lab002
 for d in $(go list ./... | grep -v vendor); do
