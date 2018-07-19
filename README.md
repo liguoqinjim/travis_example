@@ -10,3 +10,4 @@ travis-ci example
  - go1.10版本里面，`go test ./...`会自动去掉vendor文件夹，但是go1.6版本里面，`go test ./...`是会去包含vendor文件夹的。
  也就是vendor文件夹里面的也会去测试。
  - 点击travis-ci项目里面的status，可以得到status的链接。
+ - 
