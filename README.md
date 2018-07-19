@@ -1,4 +1,4 @@
-# travis_example [![Build Status](https://travis-ci.org/liguoqinjim/travis_example.svg?branch=master)](https://travis-ci.org/liguoqinjim/travis_example)
+# travis_example [![Build Status](https://travis-ci.org/liguoqinjim/travis_example.svg?branch=master)](https://travis-ci.org/liguoqinjim/travis_example) [![codecov](https://codecov.io/gh/liguoqinjim/leetcodeGo/branch/master/graph/badge.svg)](https://codecov.io/gh/liguoqinjim/leetcodeGo)
 travis-ci example
 
 |文件夹|简介|说明|
@@ -11,3 +11,4 @@ travis-ci example
  也就是vendor文件夹里面的也会去测试。
  - 点击travis-ci项目里面的status，可以得到status的链接。
  - 我们有的时候调用脚本的时候，会报错`Permission denied`，这个时候就在`before_install`下加上`chmod +x test.sh`就可以了。
+ - 在codecov的setting里面，可以得到markdown用的badge。
