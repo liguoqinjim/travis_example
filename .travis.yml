@@ -5,7 +5,7 @@ go:
   - 1.10.x
 
 before_install:
-  - chmod +x build.sh
+  - chmod +x test.sh
 
 script:
 #  - go test -v ./...
