@@ -5,4 +5,5 @@ go:
   - 1.10.x
 
 script:
-  - go test -v ./...
+#  - go test -v ./...
+  - ./test.sh
