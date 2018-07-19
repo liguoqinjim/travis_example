@@ -1,4 +1,4 @@
-# travis_example [![Build Status](https://travis-ci.org/liguoqinjim/travis_example.svg?branch=master)](https://travis-ci.org/liguoqinjim/travis_example) [![codecov](https://codecov.io/gh/liguoqinjim/leetcodeGo/branch/master/graph/badge.svg)](https://codecov.io/gh/liguoqinjim/leetcodeGo)
+# travis_example [![Build Status](https://travis-ci.org/liguoqinjim/travis_example.svg?branch=master)](https://travis-ci.org/liguoqinjim/travis_example) [![codecov](https://codecov.io/gh/liguoqinjim/travis_example/branch/master/graph/badge.svg)](https://codecov.io/gh/liguoqinjim/travis_example)
 travis-ci example
 
 |文件夹|简介|说明|
