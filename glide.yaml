@@ -1,0 +1,4 @@
+package: travis_example
+import:
+- package: github.com/tidwall/gjson
+  version: v1.1.2
